@@ -1,0 +1,13 @@
+# IDEs
+.vscode
+
+# parcel-bundler
+.cache
+dist
+.parcel-cache
+
+# other build systems
+build
+
+# npm
+node_modules
